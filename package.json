@@ -2,8 +2,9 @@
   "name": "mvp-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step required for Node.js backend'"
   },
   "author": "",
   "license": "ISC",
