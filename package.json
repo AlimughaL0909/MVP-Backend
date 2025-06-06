@@ -1,0 +1,23 @@
+{
+  "name": "mvp-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.103.0",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.17.1",
+    "pg": "^8.16.0",
+    "postgres": "^3.4.7",
+    "rss-parser": "^3.13.0",
+    "sequelize": "^6.37.7"
+  }
+}
